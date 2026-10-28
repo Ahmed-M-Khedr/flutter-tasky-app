@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#00ff00",
+        "editor.lineHighlightBackground": "#171717",
+        "editor.lineHighlightBorderWidth": 1
+    }
+}
