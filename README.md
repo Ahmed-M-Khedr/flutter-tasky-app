@@ -19,9 +19,19 @@ A task management mobile application built with **Flutter and Dart** to help use
 - **Dart** – Programming language.
 - **SharedPreferences** – Local data persistence.
 
-## Screenshots
+## 📸 Screenshots
 
-Screenshots will be added soon.
+| Welcome                             | Home 1                           | Add Task                              |
+| ----------------------------------- | -------------------------------- | ------------------------------------- |
+| ![Welcome](screenshots/welcome.jpg) | ![Home 1](screenshots/home1.jpg) | ![Add Task](screenshots/add_task.jpg) |
+
+| Home 2                           | Completed                               | To-Do                           |
+| -------------------------------- | --------------------------------------- | ------------------------------- |
+| ![Home 2](screenshots/home2.jpg) | ![Completed](screenshots/completed.jpg) | ![To-Do](screenshots/to_do.jpg) |
+
+| High Priority                                   | Profile                             |
+| ----------------------------------------------- | ----------------------------------- |
+| ![High Priority](screenshots/high_priority.jpg) | ![Profile](screenshots/profile.jpg) |
 
 ## Getting Started
 
